@@ -6,6 +6,6 @@ module.exports = defineConfig({
     host: "localhost",
     port: '8080',
     https: false,
-    proxy: 'http://127.0.0.1:3000/api',
+    proxy: 'http://127.0.0.1:3000',
   }
 });
